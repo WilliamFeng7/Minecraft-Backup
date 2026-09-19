@@ -1,0 +1,96 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:cobblestone": 7
+    },
+    "minecraft:custom": {
+      "minecraft:talked_to_villager": 1,
+      "minecraft:time_since_rest": 2908,
+      "minecraft:leave_game": 6,
+      "minecraft:mob_kills": 25,
+      "minecraft:damage_taken": 4380,
+      "minecraft:open_shulker_box": 3,
+      "minecraft:time_since_death": 2870,
+      "minecraft:sleep_in_bed": 2,
+      "minecraft:inspect_dispenser": 1,
+      "minecraft:total_world_time": 54684,
+      "minecraft:swim_one_cm": 46789,
+      "minecraft:crouch_one_cm": 6071,
+      "minecraft:climb_one_cm": 49,
+      "minecraft:deaths": 13,
+      "minecraft:raid_win": 1,
+      "minecraft:interact_with_crafting_table": 4,
+      "minecraft:damage_blocked_by_shield": 120,
+      "minecraft:walk_one_cm": 189091,
+      "minecraft:walk_under_water_one_cm": 39140,
+      "minecraft:play_time": 54684,
+      "minecraft:damage_dealt": 2448,
+      "minecraft:jump": 725,
+      "minecraft:drop": 7,
+      "minecraft:sprint_one_cm": 133759,
+      "minecraft:open_chest": 16,
+      "minecraft:inspect_hopper": 1,
+      "minecraft:fall_one_cm": 30557,
+      "minecraft:fly_one_cm": 156117,
+      "minecraft:walk_on_water_one_cm": 22017,
+      "minecraft:sneak_time": 2704,
+      "minecraft:raid_trigger": 1
+    },
+    "minecraft:used": {
+      "minecraft:cobbled_deepslate": 1,
+      "minecraft:flint_and_steel": 1,
+      "minecraft:bucket": 1,
+      "minecraft:shield": 4,
+      "minecraft:ominous_bottle": 1,
+      "minecraft:gravel": 4,
+      "minecraft:diamond_sword": 51,
+      "minecraft:dirt": 1,
+      "minecraft:iron_bars": 823
+    },
+    "minecraft:killed": {
+      "minecraft:pillager": 13,
+      "minecraft:evoker": 1,
+      "minecraft:witch": 3,
+      "minecraft:vindicator": 8
+    },
+    "minecraft:crafted": {
+      "minecraft:flint_and_steel": 1,
+      "minecraft:bucket": 2,
+      "minecraft:shield": 1,
+      "minecraft:iron_bars": 1168
+    },
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 2,
+      "minecraft:magma_cube": 4,
+      "minecraft:vex": 1,
+      "minecraft:pillager": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 94,
+      "minecraft:spruce_planks": 4,
+      "minecraft:diamond_sword": 2,
+      "minecraft:armor_stand": 1,
+      "minecraft:dirt": 1,
+      "minecraft:cobblestone": 8,
+      "minecraft:poppy": 1,
+      "minecraft:totem_of_undying": 1,
+      "minecraft:flint": 1,
+      "minecraft:gravel": 7,
+      "minecraft:flint_and_steel": 3,
+      "minecraft:iron_ingot": 59,
+      "minecraft:cobbled_deepslate": 2,
+      "minecraft:potato": 4,
+      "minecraft:iron_bars": 489,
+      "minecraft:shield": 2,
+      "minecraft:white_banner": 2
+    },
+    "minecraft:mined": {
+      "minecraft:gravel": 6,
+      "minecraft:tall_seagrass": 1,
+      "minecraft:dirt": 1,
+      "minecraft:poppy": 1,
+      "minecraft:glass": 2
+    }
+  },
+  "DataVersion": 4903
+}
