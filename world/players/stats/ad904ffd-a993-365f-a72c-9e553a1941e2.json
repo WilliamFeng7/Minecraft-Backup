@@ -1,11 +1,11 @@
 {
   "stats": {
     "minecraft:custom": {
-      "minecraft:time_since_rest": 8095368,
-      "minecraft:total_world_time": 8095368,
+      "minecraft:time_since_rest": 8239368,
+      "minecraft:total_world_time": 8239368,
       "minecraft:damage_taken": 254,
-      "minecraft:play_time": 8095368,
-      "minecraft:time_since_death": 8095368
+      "minecraft:play_time": 8239368,
+      "minecraft:time_since_death": 8239368
     },
     "minecraft:used": {
       "minecraft:totem_of_undying": 1
