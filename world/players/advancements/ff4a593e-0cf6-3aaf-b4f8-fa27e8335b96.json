@@ -4828,5 +4828,23 @@
     },
     "done": true
   },
+  "minecraft:husbandry/place_dried_ghast_in_water": {
+    "criteria": {
+      "place_dried_ghast_in_water": "2026-09-21 10:38:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_golden_dandelion": {
+    "criteria": {
+      "has_golden_dandelion": "2026-09-21 10:39:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_golden_dandelion": {
+    "criteria": {
+      "has_golden_dandelion": "2026-09-21 10:39:45 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 4903
 }
