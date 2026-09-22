@@ -3,26 +3,27 @@
     "minecraft:custom": {
       "minecraft:traded_with_villager": 20,
       "minecraft:talked_to_villager": 3,
-      "minecraft:time_since_rest": 4790,
-      "minecraft:walk_one_cm": 77792,
-      "minecraft:leave_game": 6,
-      "minecraft:mob_kills": 12,
-      "minecraft:damage_taken": 371,
-      "minecraft:play_time": 66913,
+      "minecraft:time_since_rest": 17816,
+      "minecraft:walk_one_cm": 83570,
+      "minecraft:leave_game": 8,
+      "minecraft:mob_kills": 20,
+      "minecraft:damage_taken": 404,
+      "minecraft:play_time": 79939,
       "minecraft:damage_dealt": 330,
       "minecraft:open_shulker_box": 1,
-      "minecraft:jump": 797,
-      "minecraft:time_since_death": 66913,
-      "minecraft:aviate_one_cm": 100665,
+      "minecraft:jump": 884,
+      "minecraft:time_since_death": 79939,
+      "minecraft:aviate_one_cm": 174073,
       "minecraft:drop": 17,
-      "minecraft:sprint_one_cm": 256916,
-      "minecraft:open_chest": 8,
+      "minecraft:sprint_one_cm": 272916,
+      "minecraft:open_chest": 9,
       "minecraft:sleep_in_bed": 1,
-      "minecraft:fall_one_cm": 2564,
-      "minecraft:total_world_time": 66913,
-      "minecraft:fly_one_cm": 335152,
-      "minecraft:crouch_one_cm": 23985,
-      "minecraft:sneak_time": 7811
+      "minecraft:fall_one_cm": 5134,
+      "minecraft:happy_ghast_one_cm": 54277,
+      "minecraft:total_world_time": 79939,
+      "minecraft:fly_one_cm": 351659,
+      "minecraft:crouch_one_cm": 24068,
+      "minecraft:sneak_time": 7888
     },
     "minecraft:crafted": {
       "minecraft:arrow": 192,
@@ -46,7 +47,8 @@
       "minecraft:diamond_pickaxe": 376,
       "minecraft:golden_helmet": 1,
       "minecraft:blackstone": 68,
-      "minecraft:egg": 1
+      "minecraft:egg": 1,
+      "minecraft:bow": 63
     },
     "minecraft:mined": {
       "minecraft:weeping_vines_plant": 3,
@@ -77,6 +79,11 @@
       "minecraft:weeping_vines": 1
     },
     "minecraft:killed": {
+      "minecraft:horse": 4,
+      "minecraft:skeleton": 1,
+      "minecraft:pig": 1,
+      "minecraft:sheep": 1,
+      "minecraft:wolf": 1,
       "minecraft:magma_cube": 12
     }
   },
