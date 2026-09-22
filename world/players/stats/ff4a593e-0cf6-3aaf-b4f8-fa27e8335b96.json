@@ -1,17 +1,36 @@
 {
   "stats": {
     "minecraft:custom": {
-      "minecraft:sprint_one_cm": 24725,
+      "minecraft:sprint_one_cm": 123049,
       "minecraft:open_chest": 2,
-      "minecraft:time_since_rest": 9161,
-      "minecraft:walk_one_cm": 3367,
-      "minecraft:total_world_time": 9161,
-      "minecraft:leave_game": 2,
-      "minecraft:fly_one_cm": 145541,
-      "minecraft:sneak_time": 170,
-      "minecraft:play_time": 9161,
-      "minecraft:jump": 77,
-      "minecraft:time_since_death": 9161
+      "minecraft:time_since_rest": 24233,
+      "minecraft:walk_one_cm": 14311,
+      "minecraft:total_world_time": 24233,
+      "minecraft:leave_game": 4,
+      "minecraft:fly_one_cm": 296861,
+      "minecraft:crouch_one_cm": 2114,
+      "minecraft:sneak_time": 713,
+      "minecraft:play_time": 24233,
+      "minecraft:jump": 372,
+      "minecraft:time_since_death": 24233
+    },
+    "minecraft:used": {
+      "minecraft:cooked_beef": 2,
+      "minecraft:elytra": 2,
+      "minecraft:diamond_helmet": 1,
+      "minecraft:diamond_pickaxe": 3,
+      "minecraft:golden_helmet": 1,
+      "minecraft:basalt": 32,
+      "minecraft:firework_rocket": 1,
+      "minecraft:diamond_chestplate": 1
+    },
+    "minecraft:mined": {
+      "minecraft:blackstone": 1,
+      "minecraft:netherrack": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:netherrack": 3,
+      "minecraft:blackstone": 1
     }
   },
   "DataVersion": 4903
