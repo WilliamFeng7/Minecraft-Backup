@@ -1,13 +1,13 @@
 {
   "stats": {
     "minecraft:custom": {
-      "minecraft:time_since_rest": 24819,
+      "minecraft:time_since_rest": 26125,
       "minecraft:talked_to_villager": 34,
       "minecraft:leave_game": 19,
       "minecraft:damage_taken": 2202,
       "minecraft:mob_kills": 254,
       "minecraft:open_shulker_box": 20,
-      "minecraft:time_since_death": 258139,
+      "minecraft:time_since_death": 259445,
       "minecraft:aviate_one_cm": 1458592,
       "minecraft:open_enderchest": 28,
       "minecraft:interact_with_brewingstand": 13,
@@ -15,7 +15,7 @@
       "minecraft:sleep_in_bed": 7,
       "minecraft:happy_ghast_one_cm": 60586,
       "minecraft:swim_one_cm": 39660,
-      "minecraft:total_world_time": 258139,
+      "minecraft:total_world_time": 259445,
       "minecraft:crouch_one_cm": 26486,
       "minecraft:climb_one_cm": 3633,
       "minecraft:animals_bred": 18,
@@ -24,7 +24,7 @@
       "minecraft:walk_one_cm": 462357,
       "minecraft:walk_under_water_one_cm": 19651,
       "minecraft:damage_dealt": 11075,
-      "minecraft:play_time": 258139,
+      "minecraft:play_time": 259445,
       "minecraft:jump": 3760,
       "minecraft:drop": 78,
       "minecraft:use_cauldron": 13,
