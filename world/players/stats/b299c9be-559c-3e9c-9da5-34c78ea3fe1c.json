@@ -1,0 +1,100 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 16371,
+      "minecraft:leave_game": 4,
+      "minecraft:mob_kills": 216,
+      "minecraft:damage_taken": 45,
+      "minecraft:time_since_death": 16371,
+      "minecraft:open_enderchest": 2,
+      "minecraft:inspect_dispenser": 1,
+      "minecraft:total_world_time": 16371,
+      "minecraft:swim_one_cm": 2874,
+      "minecraft:crouch_one_cm": 2574,
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:walk_one_cm": 129886,
+      "minecraft:walk_under_water_one_cm": 156,
+      "minecraft:play_time": 16371,
+      "minecraft:damage_dealt": 6343,
+      "minecraft:jump": 340,
+      "minecraft:drop": 19,
+      "minecraft:use_cauldron": 2,
+      "minecraft:open_barrel": 3,
+      "minecraft:sprint_one_cm": 220638,
+      "minecraft:open_chest": 98,
+      "minecraft:fall_one_cm": 2462,
+      "minecraft:fly_one_cm": 136387,
+      "minecraft:interact_with_anvil": 1,
+      "minecraft:walk_on_water_one_cm": 3807,
+      "minecraft:sneak_time": 646
+    },
+    "minecraft:crafted": {
+      "minecraft:tnt": 37
+    },
+    "minecraft:used": {
+      "minecraft:cooked_beef": 4,
+      "minecraft:lava_bucket": 6,
+      "minecraft:diamond_axe": 207,
+      "minecraft:flint_and_steel": 5,
+      "minecraft:diamond_pickaxe": 25,
+      "minecraft:bucket": 5,
+      "minecraft:diamond_shovel": 183,
+      "minecraft:tnt": 76
+    },
+    "minecraft:mined": {
+      "minecraft:sand": 175,
+      "minecraft:potatoes": 4,
+      "minecraft:grass_block": 1,
+      "minecraft:farmland": 1,
+      "minecraft:tnt": 25
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 80,
+      "minecraft:quartz": 1,
+      "minecraft:book": 1,
+      "minecraft:netherrack": 1,
+      "minecraft:dirt": 1,
+      "minecraft:bamboo": 1,
+      "minecraft:cooked_beef": 17,
+      "minecraft:bone_block": 1,
+      "minecraft:glass": 1,
+      "minecraft:feather": 46,
+      "minecraft:chicken": 18,
+      "minecraft:leather": 11,
+      "minecraft:redstone": 1,
+      "minecraft:diamond_pickaxe": 1,
+      "minecraft:cooked_chicken": 14,
+      "minecraft:item_frame": 17,
+      "minecraft:pointed_dripstone": 1,
+      "minecraft:spruce_log": 1,
+      "minecraft:crossbow": 1,
+      "minecraft:potato": 15,
+      "minecraft:gold_ingot": 1,
+      "minecraft:sand": 150,
+      "minecraft:tnt": 22
+    },
+    "minecraft:dropped": {
+      "minecraft:pointed_dripstone": 1,
+      "minecraft:bamboo": 1,
+      "minecraft:redstone": 1,
+      "minecraft:book": 1,
+      "minecraft:glass": 1,
+      "minecraft:dirt": 1,
+      "minecraft:egg": 80,
+      "minecraft:leather": 11,
+      "minecraft:item_frame": 16,
+      "minecraft:quartz": 1,
+      "minecraft:spruce_log": 1,
+      "minecraft:gunpowder": 1,
+      "minecraft:netherrack": 1,
+      "minecraft:bone_block": 1,
+      "minecraft:crossbow": 1
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 1,
+      "minecraft:chicken": 182,
+      "minecraft:villager": 29
+    }
+  },
+  "DataVersion": 4903
+}
