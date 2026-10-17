@@ -1,0 +1,49 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:short_grass": 24,
+      "minecraft:tall_grass": 8,
+      "minecraft:poppy": 6,
+      "minecraft:cornflower": 1,
+      "minecraft:pumpkin": 36,
+      "minecraft:dandelion": 1,
+      "minecraft:carved_pumpkin": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:iron_block": 251
+    },
+    "minecraft:picked_up": {
+      "minecraft:carved_pumpkin": 1,
+      "minecraft:poppy": 29,
+      "minecraft:dandelion": 1,
+      "minecraft:wheat_seeds": 2,
+      "minecraft:cornflower": 1,
+      "minecraft:torch": 1,
+      "minecraft:pumpkin": 36,
+      "minecraft:iron_ingot": 30
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 6,
+      "minecraft:time_since_rest": 21954,
+      "minecraft:walk_one_cm": 209695,
+      "minecraft:leave_game": 2,
+      "minecraft:damage_taken": 10,
+      "minecraft:play_time": 21954,
+      "minecraft:jump": 100,
+      "minecraft:time_since_death": 21954,
+      "minecraft:sprint_one_cm": 19323,
+      "minecraft:open_chest": 11,
+      "minecraft:fall_one_cm": 1662,
+      "minecraft:total_world_time": 21954,
+      "minecraft:fly_one_cm": 1252,
+      "minecraft:walk_on_water_one_cm": 463,
+      "minecraft:crouch_one_cm": 358,
+      "minecraft:sneak_time": 74,
+      "minecraft:interact_with_grindstone": 1
+    },
+    "minecraft:used": {
+      "minecraft:poppy": 1452
+    }
+  },
+  "DataVersion": 4903
+}
