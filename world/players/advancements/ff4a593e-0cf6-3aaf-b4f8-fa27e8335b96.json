@@ -4344,5 +4344,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sulfur_from_sulfur_spikes": {
+    "criteria": {
+      "has_sulfur_spike": "2026-10-18 13:29:56 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 4903
 }
