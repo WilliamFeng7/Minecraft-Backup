@@ -4499,5 +4499,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2026-10-19 17:37:40 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 4903
 }
