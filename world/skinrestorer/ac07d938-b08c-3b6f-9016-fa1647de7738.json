@@ -1,0 +1,10 @@
+{
+  "provider": "mojang",
+  "argument": "player115",
+  "value": {
+    "name": "textures",
+    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc5MTk3OTM1NjUxMCwKICAicHJvZmlsZUlkIiA6ICI4YWIzMmY0YzJkZWE0ZDQzYTg5ZjJiMGJjMjg1NzJkMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQbGF5ZXIxMTUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGI3NDI4NzQ5ZTMyN2ZmNzcxYzFmYzJhZTMwZmRiYWZiYTgwMjIwNWUyNGMzNTI2OWJkNDVhNjhmMmM0ZWViZiIKICAgIH0KICB9Cn0\u003d",
+    "signature": "eYKuEbUT5XcqC/cn89SKhyLFUoPmYF3XkU/G8tz+dk90OsEqPkAQoUpukCEU/9/EkcNu0ogQfCAckpXwjTxbv4tZwcgOt8GMNc2q+czkNlxoNSMEPD37Fm8eAGaj0l4rQZ5yVoKphvpnunAFqnS/+/eao5DLQWCSegT7/yw/3dcem8Yl+kDDNpBdncJU2+ax3ULk/reGBctoMSkNzY2LaIihNOevADXovEMhuX3hckCVFZCtg+jWiHyFgij6+6QGKL6AYct4gKn+XT5oNfoNxDF05Etdeu3i+YeYu+fvuJotBXsvLw0wvJrUrXBLxkAXka+UlJosdiZv+CyXeiyJYrAwUaGJol45wr0dhAuuFtHsi5bD8PbG9uTmsHJHUZID1HQPcbpg6q7PUm3PL2oJQqhYzuf33Uf1U87cklfOclsga2l3QRZNX0IFmzQvTtmPhyYYtnn3YQCxvhV4IxPgp7HYFh5319yTglPnyFH4aLki0iaiFzLjTs4mUpqHAUbQU+MxqsYISQokAwAFz849WKGydg+Aek9Bj2+8bYkWRDGT6acOl6RTva36XUuwMsc2fg7UWK8ShquVxOVjnhtidAcuaSidRjzRw2Nz85mNCNG0qT3F7M82s1Yk3Y9l3Bgp29IHtUgky6BgEplYcjIJa+Vm7a9sLh0TSf/QmDv7uFA\u003d"
+  },
+  "version": 1
+}
