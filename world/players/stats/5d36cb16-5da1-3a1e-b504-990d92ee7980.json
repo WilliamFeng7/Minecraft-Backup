@@ -1,0 +1,26 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 5702,
+      "minecraft:walk_one_cm": 7043,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 5702,
+      "minecraft:jump": 92,
+      "minecraft:time_since_death": 5702,
+      "minecraft:sprint_one_cm": 19831,
+      "minecraft:open_chest": 9,
+      "minecraft:fall_one_cm": 1775,
+      "minecraft:total_world_time": 5702,
+      "minecraft:fly_one_cm": 28745,
+      "minecraft:crouch_one_cm": 515,
+      "minecraft:sneak_time": 220
+    },
+    "minecraft:used": {
+      "minecraft:egg": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 1
+    }
+  },
+  "DataVersion": 4903
+}
