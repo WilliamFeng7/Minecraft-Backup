@@ -1,0 +1,50 @@
+git-lfs/3.8.0 (GitHub; linux amd64; go 1.27.0; git aece9221)
+git version 2.43.0
+
+$ git-lfs prune --force
+Prune error: error in `git worktree`: exit status 128: fatal: not a git repository (or any of the parent directories): .git
+
+Prune error: Git can't resolve ref: "HEAD"
+Prune error: error in `git log`: exit status 128 fatal: not a git repository (or any of the parent directories): .git
+
+
+error in `git log`: exit status 128 fatal: not a git repository (or any of the parent directories): .git
+
+github.com/git-lfs/git-lfs/v3/errors.New
+	github.com/git-lfs/git-lfs/v3/errors/errors.go:62
+github.com/git-lfs/git-lfs/v3/lfs.parseScannerLogOutput.func2
+	github.com/git-lfs/git-lfs/v3/lfs/gitscanner_log.go:163
+runtime.goexit
+	runtime/asm_amd64.s:1264
+
+Current time in UTC:
+2026-09-22 02:05:01
+
+Environment:
+LocalWorkingDir=
+LocalGitDir=
+LocalGitStorageDir=
+LocalMediaDir=lfs/objects
+LocalReferenceDirs=
+TempDir=lfs/tmp
+ConcurrentTransfers=8
+TusTransfers=false
+BasicTransfersOnly=false
+SkipDownloadErrors=false
+FetchRecentAlways=false
+FetchRecentRefsDays=7
+FetchRecentCommitsDays=0
+FetchRecentRefsIncludeRemotes=true
+PruneOffsetDays=3
+PruneVerifyRemoteAlways=false
+PruneVerifyUnreachableAlways=false
+PruneRemoteName=origin
+LfsStorageDir=lfs
+AccessDownload=none
+AccessUpload=none
+DownloadTransfers=basic,lfs-standalone-file,ssh
+UploadTransfers=basic,lfs-standalone-file,ssh
+GIT_EXEC_PATH=/usr/lib/git-core
+
+Client IP addresses:
+192.168.33.152 240e:390:9ae:dc30:20c:29ff:fe7b:30eb fe80::20c:29ff:fe7b:30eb
