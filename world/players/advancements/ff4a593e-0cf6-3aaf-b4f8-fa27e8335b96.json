@@ -4949,5 +4949,23 @@
     },
     "done": true
   },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2026-11-09 16:02:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-11-09 16:28:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-11-09 16:28:35 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 4903
 }
