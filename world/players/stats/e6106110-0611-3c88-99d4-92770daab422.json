@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:spruce_log": 3
+    },
+    "minecraft:mined": {
+      "minecraft:spruce_log": 3
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 2099,
+      "minecraft:time_since_rest": 758,
+      "minecraft:walk_one_cm": 39,
+      "minecraft:total_world_time": 758,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 758,
+      "minecraft:time_since_death": 758
+    }
+  },
+  "DataVersion": 4903
+}

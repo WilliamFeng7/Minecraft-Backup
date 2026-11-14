@@ -1,0 +1,38 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:spruce_sign": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 4,
+      "minecraft:spruce_sign": 3,
+      "minecraft:spruce_planks": 12
+    },
+    "minecraft:picked_up": {
+      "minecraft:spruce_log": 3,
+      "minecraft:wheat_seeds": 3,
+      "minecraft:wheat": 1
+    },
+    "minecraft:mined": {
+      "minecraft:spruce_log": 3
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:talked_to_villager": 1,
+      "minecraft:time_since_rest": 4566,
+      "minecraft:walk_one_cm": 7525,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 30,
+      "minecraft:play_time": 4566,
+      "minecraft:open_shulker_box": 1,
+      "minecraft:jump": 107,
+      "minecraft:time_since_death": 4566,
+      "minecraft:sprint_one_cm": 28243,
+      "minecraft:open_chest": 4,
+      "minecraft:fall_one_cm": 1932,
+      "minecraft:total_world_time": 4566,
+      "minecraft:fly_one_cm": 31019
+    }
+  },
+  "DataVersion": 4903
+}

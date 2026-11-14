@@ -1,0 +1,36 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:dirt": 23,
+      "minecraft:iron_block": 3,
+      "minecraft:cobblestone": 4,
+      "minecraft:oak_planks": 3,
+      "minecraft:bucket": 2,
+      "minecraft:leather": 1,
+      "minecraft:crafting_table": 1,
+      "minecraft:item_frame": 1,
+      "minecraft:cobbled_deepslate": 2,
+      "minecraft:lead": 1,
+      "minecraft:diamond_shovel": 1,
+      "minecraft:wheat_seeds": 64,
+      "minecraft:ladder": 9,
+      "minecraft:emerald": 49
+    },
+    "minecraft:killed_by": {
+      "minecraft:phantom": 1,
+      "minecraft:player": 2,
+      "minecraft:zombie": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 619043,
+      "minecraft:fall_one_cm": 206,
+      "minecraft:total_world_time": 7530731,
+      "minecraft:leave_game": 7,
+      "minecraft:damage_taken": 1940,
+      "minecraft:play_time": 7530731,
+      "minecraft:deaths": 7,
+      "minecraft:time_since_death": 619043
+    }
+  },
+  "DataVersion": 4903
+}
