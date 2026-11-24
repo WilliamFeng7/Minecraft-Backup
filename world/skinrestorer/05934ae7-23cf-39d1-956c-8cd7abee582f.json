@@ -1,0 +1,10 @@
+{
+  "provider": "mojang",
+  "argument": "Inhabitors",
+  "value": {
+    "name": "textures",
+    "value": "ewogICJ0aW1lc3RhbXAiIDogMTc5NTMxODkwNzcwNiwKICAicHJvZmlsZUlkIiA6ICIzMjc3NDdhMzU0ZGU0YzNhOWIxY2NlYmZjNDRlZTdjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJJbmhhYml0b3JzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIxNTcyODk0YWMyMTAwZTQxODdiMDNkZjg3Y2QyYzE1YTQ3ZDYwNmIzYWQxMDMwNTNlYzNjOWJjOGFiNWFjN2IiCiAgICB9CiAgfQp9",
+    "signature": "RQVtzlDq3ukB5TtGiM7xqMIrUqST+J1lVh5lC4AVniEbMrilW32kVGOoUdV61kb0PCgSNylkVWYnNKLU8mWVMTgaNoLfutBZi1RpUjCgFhP/GC6c81yiNKE2KTw0RqbUj5ryYkD/+g2AnPyiTPELQkxfBFhw6lbXcj63oW8hmSZHvRY6VJGLzFyfVnOWLcr4Qyl/cKeqChJlT01k82igO3vrhobqwRWaM1xWfU9CSdsGxlaDcBw1f/SZfsiWStg+1ZmQPlvn6Ys5fj+v8y6zcOwQBwPRHiP9hIUZ8c2j+s9qM2fGdBD1YZPgvrhSgJxnyyf7YQEAjO4jrP1wGopHCQVyMeGT5M7r6N1Oix0uoBCNhm+Oh/oykiwqD27pFwJUF9mKQzkyddoDkGqDD8S4/ptAu6MsvlZD2L/GTJok9GMeTi4QpbffjBkS/MzT8Np9sA6/AQIuevU/IKq8+E7Hv7pP/lAHDpK+HljI+GcwmVZr7ilM+sD7NGbCJEwj4xycw8JZX3ScXMAAfv6rbeYER3suuU8OpuYjK0sP91EmNX6DaTiSxhyYpQM+sKEw+5hOYS+zc3KeJ2CJn9egCD4iLDGYGr+p00TuPRNkRNwbOlODcX98DOhQDmQbcbhVIVeT+tfmGg6qceQBYkq1YV8Pm7GxNhvY51ZAXcx6HHE/9gw\u003d"
+  },
+  "version": 1
+}
